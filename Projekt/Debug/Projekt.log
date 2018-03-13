@@ -1,0 +1,10 @@
+﻿  stdafx.cpp
+  TranzitivniUzaver.cpp
+  Projekt.cpp
+  BinarniRelace.cpp
+c:\users\domin\documents\visual studio 2017\projects\projekt\projekt\binarnirelace.cpp(3): warning C4067: Po direktivě preprocesoru byly neočekávané tokeny – očekával se nový řádek.
+c:\users\domin\documents\visual studio 2017\projects\projekt\projekt\binarnirelace.cpp(75): warning C4553: ==: Operátor nemá na zpracování žádný vliv; nechtěli jste použít možnost =?
+c:\users\domin\documents\visual studio 2017\projects\projekt\projekt\binarnirelace.cpp(91): warning C4553: ==: Operátor nemá na zpracování žádný vliv; nechtěli jste použít možnost =?
+  Generování kódu...
+  Projekt.vcxproj -> C:\Users\domin\Documents\Visual Studio 2017\Projects\Projekt\Debug\Projekt.exe
+  Projekt.vcxproj -> C:\Users\domin\Documents\Visual Studio 2017\Projects\Projekt\Debug\Projekt.pdb (Partial PDB)
