@@ -1,1 +1,1 @@
-# Symmetric-closure
+# transitive-closure
